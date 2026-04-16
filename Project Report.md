@@ -3,11 +3,11 @@ Course Code: CSA2001 – Fundamentals in AI and ML
 
 Course Title: Fundamentals in AI and ML
 
-Student Name: Vaidant Udawat
+Student Name: KUNWAR SINGH
 
-Registration Number: 25BAI10266 
+Registration Number: 25BCE11021 
 
-Branch: CSE AI ML
+Branch: CSE CORE
 
 ## Problem Statement
 - The Problem: The agricultural industry of India suffers from extreme weather changes which create financial losses for farmers. The         traditional approaches to agricultural data analysis struggle to handle the complex interactions which exist between different    climate      conditions and various soil properties.
