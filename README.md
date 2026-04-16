@@ -4,7 +4,7 @@
 
 - NAME: KUNWAR SINGH
 - REG NO.: 25BCE11021
-- CSE[AI ML]: 1st Year
+- CSE[CORE]: 1st Year
 
 # 📌 Project Overview
 
